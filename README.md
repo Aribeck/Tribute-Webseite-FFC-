@@ -5,7 +5,7 @@ Dies ist meine **Tribute-Webseite** im Rahmen des FreeCodeCamp-Kurses Responsive
 🎯 **Ziel:** Eine einfache, stilvolle Webseite erstellen, um George Washington Carver zu ehren – komplett mit HTML & CSS umgesetzt.
 
 🌐 **Live-Demo:** Hier ansehen  
-*(https://aribeck.github.io/Tribute-Webseite-/)*
+*(https://aribeck.github.io/Tribute-Webseite-FFC-/)*
 
 ---
 
