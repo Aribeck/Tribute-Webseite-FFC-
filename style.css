@@ -128,8 +128,10 @@ a:hover {
 @media (max-width: 600px) {
     .image-container, .two {
         border-radius: 50px;
-        margin: 10px;
-        padding: 10px;
+        margin-left: -25px;
+        margin-right: -25px;      
+        margin-bottom: 10px;
+        padding: auto;
     }
     
     .info {
@@ -145,10 +147,17 @@ a:hover {
         padding-left: 10px;
         padding-right: 10px;
     }
+
+    #image {
+      max-width: 100%;
+      height: auto;
+      border-radius: 12px;
+    }
 }
 
 @media (max-width: 1200px) {
     .frame {
         max-width: 90%;
+        margin: 10px auto;
     }
 }
